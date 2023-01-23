@@ -1,8 +1,8 @@
 {
   "name": "mf-json-server-todos",
-  "description": "Example in memory todos api with json-server by Learn with Sumit",
+  "description": "Example in memory todos api with json-server by Mehedi Foysal",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
